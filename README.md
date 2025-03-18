@@ -7,7 +7,7 @@ BrawlCrateLib / BrawlCrate
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/e7a263be2c174b0390ae413455bbfcc5)](https://www.codacy.com/app/soopercoolstages/BrawlCrate?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=soopercool101/BrawlCrate&amp;utm_campaign=Badge_Grade)
 [![Discord](https://img.shields.io/discord/299006136512806912.svg?logo=discord)](https://discord.gg/s7c8763)
 
-BrawlCrate is a BrawlBox fork with a variety of features aiming to improve ease of modding for Super Smash Bros. Brawl.
+TTCrate is a BrawlCrate fork, intended for modding some aspects of LEGO Indiana Jones 2 Wii, BrawlCrate is a BrawlBox fork with a variety of features aiming to improve ease of modding for Super Smash Bros. Brawl.
 
 BrawlBox and BrawlLib were maintained initially by [Kryal](https://code.google.com/p/brawltools/), then by [BlackJax96](https://code.google.com/p/brawltools2/), and currently by [libertyernie](https://github.com/libertyernie/brawltools).
 
